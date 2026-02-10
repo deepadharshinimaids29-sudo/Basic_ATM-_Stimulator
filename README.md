@@ -1,2 +1,4 @@
 # Basic_ATM-_Stimulator
 An ATM Simulator is a software application that replicates the basic functions of an Automated Teller Machine. It is designed to help users understand how ATM systems work without using real banking infrastructure or real money. The simulator provides a safe and controlled environment for learning, testing, and demonstration purposes.
+The system allows users to authenticate using a PIN and perform common banking operations such as balance inquiry, cash withdrawal, and cash deposit. It also handles basic error conditions like incorrect PIN entry and insufficient account balance. The simulator is widely used in computer science education and software development to demonstrate concepts such as conditional statements, loops, and user input handling.
+Overall, an ATM Simulator helps students and developers gain practical knowledge of banking operations while improving their programming and logical thinking skills.
